@@ -1,4 +1,4 @@
-import quadratic_polynomial as qp
+import chapter1.quadratic_polynomial as qp
 
 answer_quest = "yes"
 while(answer_quest == "yes"):
